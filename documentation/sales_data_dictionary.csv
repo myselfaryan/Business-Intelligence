@@ -1,0 +1,10 @@
+Column Name,Data Type,Description,Example Value
+Order_ID,object,,ORD-03792
+Order_Date,datetime64[ns],,2022-06-29 00:00:00
+Region,object,,Asia Pacific
+Product,object,,Product E
+Category,object,,Electronics
+Unit_Price,float64,,1195.39
+Quantity,int64,,21
+Revenue,float64,,13443.64
+Customer_ID,object,,CUST-0482

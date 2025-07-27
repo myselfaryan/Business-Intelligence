@@ -1,0 +1,7 @@
+Column Name,Data Type,Description,Example Value
+Month,datetime64[ns],,2022-05-01 00:00:00
+Region,object,,Asia Pacific
+Category,object,,R&D Investment
+Budget,int64,,897795
+Actual,float64,,360258.11
+Variance,float64,,-11.32

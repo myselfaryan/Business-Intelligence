@@ -1,0 +1,9 @@
+Column Name,Data Type,Description,Example Value
+Employee_ID,object,,EMP-00015
+Department,object,,Engineering
+Region,object,,Asia Pacific
+Hire_Date,datetime64[ns],,2023-04-03 00:00:00
+Termination_Date,object,,N/A
+Is_Active,bool,,True
+Annual_Salary,float64,,128099.0
+Job_Level,object,,Lead
