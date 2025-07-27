@@ -1,0 +1,306 @@
+Employee_ID,Department,Region,Hire_Date,Termination_Date,Is_Active,Annual_Salary,Job_Level
+EMP-00001,Sales,Asia Pacific,2022-10-10,N/A,True,98253.0,Mid
+EMP-00002,Sales,Europe,2023-05-01,N/A,True,114676.0,Mid
+EMP-00003,Sales,North America,2022-09-23,2023-03-24,False,109340.0,Lead
+EMP-00004,Sales,North America,2022-08-29,N/A,True,102196.0,Junior
+EMP-00005,Sales,North America,2022-06-06,N/A,True,123761.0,Mid
+EMP-00006,Sales,North America,2023-11-17,N/A,True,108494.0,Manager
+EMP-00007,Sales,Asia Pacific,2022-05-08,N/A,True,108079.0,Lead
+EMP-00008,Sales,North America,2023-02-24,N/A,True,91304.0,Mid
+EMP-00009,Sales,Asia Pacific,2022-03-13,2022-07-27,False,116221.0,Junior
+EMP-00010,Sales,Asia Pacific,2022-08-26,N/A,True,101692.0,Lead
+EMP-00011,Sales,Latin America,2022-02-09,2023-03-15,False,60089.0,Lead
+EMP-00012,Sales,North America,2022-04-13,N/A,True,103804.0,Senior
+EMP-00013,Sales,Latin America,2023-02-04,N/A,True,91051.0,Manager
+EMP-00014,Sales,Latin America,2022-10-03,N/A,True,107555.0,Senior
+EMP-00015,Sales,North America,2022-09-22,N/A,True,74798.0,Lead
+EMP-00016,Sales,Latin America,2023-09-22,N/A,True,72178.0,Junior
+EMP-00017,Sales,Middle East & Africa,2022-08-18,N/A,True,109746.0,Junior
+EMP-00018,Sales,Middle East & Africa,2022-12-23,N/A,True,75822.0,Manager
+EMP-00019,Sales,North America,2023-02-20,N/A,True,102075.0,Senior
+EMP-00020,Sales,Middle East & Africa,2022-01-22,N/A,True,88889.0,Senior
+EMP-00021,Sales,Latin America,2023-07-29,N/A,True,98727.0,Junior
+EMP-00022,Sales,Latin America,2023-10-28,N/A,True,112961.0,Junior
+EMP-00023,Sales,Asia Pacific,2022-03-15,N/A,True,110149.0,Manager
+EMP-00024,Sales,North America,2022-07-22,N/A,True,108242.0,Lead
+EMP-00025,Sales,Asia Pacific,2022-02-23,N/A,True,100375.0,Junior
+EMP-00026,Sales,Middle East & Africa,2023-01-01,N/A,True,89343.0,Senior
+EMP-00027,Sales,North America,2023-11-11,N/A,True,106799.0,Mid
+EMP-00028,Sales,Latin America,2023-01-04,N/A,True,117437.0,Lead
+EMP-00029,Sales,North America,2022-12-23,N/A,True,139020.0,Mid
+EMP-00030,Sales,Europe,2023-08-05,N/A,True,125118.0,Mid
+EMP-00031,Sales,Latin America,2023-07-28,N/A,True,84649.0,Lead
+EMP-00032,Sales,Europe,2023-07-21,N/A,True,89286.0,Lead
+EMP-00033,Sales,North America,2023-09-16,N/A,True,74347.0,Mid
+EMP-00034,Sales,Latin America,2022-11-24,N/A,True,67762.0,Manager
+EMP-00035,Sales,Middle East & Africa,2023-07-25,N/A,True,109159.0,Manager
+EMP-00036,Sales,North America,2023-09-03,N/A,True,84618.0,Mid
+EMP-00037,Sales,Latin America,2023-09-06,N/A,True,103346.0,Manager
+EMP-00038,Sales,Middle East & Africa,2022-06-04,N/A,True,68266.0,Mid
+EMP-00039,Sales,Asia Pacific,2023-02-03,N/A,True,63139.0,Lead
+EMP-00040,Sales,Asia Pacific,2022-03-17,N/A,True,115449.0,Manager
+EMP-00041,Sales,Europe,2023-10-04,N/A,True,74363.0,Mid
+EMP-00042,Sales,Latin America,2023-06-28,N/A,True,114539.0,Lead
+EMP-00043,Sales,Latin America,2022-05-11,N/A,True,64821.0,Lead
+EMP-00044,Sales,Middle East & Africa,2023-10-06,N/A,True,116103.0,Mid
+EMP-00045,Sales,Europe,2022-05-10,N/A,True,110233.0,Manager
+EMP-00046,Sales,Europe,2023-02-12,N/A,True,99068.0,Junior
+EMP-00047,Sales,North America,2023-10-05,N/A,True,103797.0,Lead
+EMP-00048,Sales,North America,2023-03-21,N/A,True,142684.0,Mid
+EMP-00049,Sales,North America,2023-11-06,N/A,True,78504.0,Manager
+EMP-00050,Sales,Asia Pacific,2022-09-04,N/A,True,99650.0,Mid
+EMP-00051,Sales,Europe,2023-09-22,N/A,True,89246.0,Lead
+EMP-00052,Sales,North America,2023-07-10,N/A,True,79887.0,Junior
+EMP-00053,Sales,Asia Pacific,2023-09-12,2023-11-06,False,96826.0,Manager
+EMP-00054,Sales,Middle East & Africa,2023-11-23,N/A,True,105783.0,Junior
+EMP-00055,Sales,Latin America,2022-06-25,N/A,True,105095.0,Mid
+EMP-00056,Sales,Europe,2022-04-30,N/A,True,125738.0,Senior
+EMP-00057,Sales,Latin America,2022-03-16,2022-04-21,False,100795.0,Mid
+EMP-00058,Sales,Europe,2023-04-12,2023-11-28,False,96729.0,Lead
+EMP-00059,Sales,North America,2022-10-03,N/A,True,73446.0,Manager
+EMP-00060,Sales,Europe,2023-03-12,N/A,True,92008.0,Manager
+EMP-00061,Sales,Asia Pacific,2022-10-26,N/A,True,73631.0,Lead
+EMP-00062,Sales,Middle East & Africa,2022-09-13,N/A,True,105837.0,Mid
+EMP-00063,Sales,Latin America,2023-06-08,N/A,True,119579.0,Manager
+EMP-00064,Sales,Asia Pacific,2023-06-22,N/A,True,71256.0,Manager
+EMP-00065,Sales,Latin America,2022-12-24,N/A,True,60174.0,Junior
+EMP-00066,Sales,Europe,2023-07-18,N/A,True,105082.0,Lead
+EMP-00067,Sales,North America,2022-08-03,N/A,True,79580.0,Junior
+EMP-00068,Sales,Asia Pacific,2022-01-19,N/A,True,62120.0,Mid
+EMP-00069,Sales,Latin America,2022-05-12,N/A,True,73630.0,Mid
+EMP-00070,Marketing,Europe,2022-09-04,N/A,True,110981.0,Mid
+EMP-00071,Marketing,Latin America,2023-10-18,N/A,True,76685.0,Manager
+EMP-00072,Marketing,Latin America,2022-05-25,2022-07-24,False,82233.0,Lead
+EMP-00073,Marketing,North America,2023-09-19,N/A,True,114286.0,Senior
+EMP-00074,Marketing,Latin America,2022-09-16,N/A,True,61526.0,Junior
+EMP-00075,Marketing,North America,2022-02-01,2022-12-22,False,91897.0,Senior
+EMP-00076,Marketing,North America,2022-05-27,2023-08-22,False,64721.0,Senior
+EMP-00077,Marketing,Asia Pacific,2022-01-19,2023-04-11,False,67788.0,Senior
+EMP-00078,Marketing,Middle East & Africa,2022-06-13,N/A,True,98296.0,Manager
+EMP-00079,Marketing,North America,2022-07-17,N/A,True,96733.0,Senior
+EMP-00080,Marketing,North America,2023-05-24,N/A,True,110986.0,Senior
+EMP-00081,Marketing,Middle East & Africa,2022-06-12,N/A,True,99946.0,Manager
+EMP-00082,Marketing,Middle East & Africa,2023-07-06,N/A,True,69486.0,Junior
+EMP-00083,Marketing,Middle East & Africa,2022-09-01,N/A,True,78510.0,Lead
+EMP-00084,Marketing,Europe,2022-05-01,2023-08-16,False,80823.0,Senior
+EMP-00085,Marketing,Latin America,2022-10-30,N/A,True,76363.0,Senior
+EMP-00086,Marketing,Middle East & Africa,2023-04-01,N/A,True,99605.0,Mid
+EMP-00087,Marketing,Asia Pacific,2022-01-19,N/A,True,81979.0,Senior
+EMP-00088,Marketing,Middle East & Africa,2023-12-01,N/A,True,55036.0,Lead
+EMP-00089,Marketing,Latin America,2022-02-09,N/A,True,66002.0,Manager
+EMP-00090,Marketing,North America,2023-09-02,N/A,True,99859.0,Manager
+EMP-00091,Marketing,North America,2023-10-13,N/A,True,109329.0,Manager
+EMP-00092,Marketing,Europe,2023-09-11,N/A,True,64504.0,Lead
+EMP-00093,Marketing,Middle East & Africa,2023-07-08,N/A,True,78953.0,Junior
+EMP-00094,Marketing,Middle East & Africa,2023-07-14,N/A,True,85632.0,Junior
+EMP-00095,Marketing,Asia Pacific,2023-10-23,N/A,True,87534.0,Senior
+EMP-00096,Marketing,Latin America,2022-11-17,N/A,True,75296.0,Manager
+EMP-00097,Marketing,Europe,2022-06-24,N/A,True,102732.0,Lead
+EMP-00098,Marketing,Middle East & Africa,2022-12-30,2023-05-20,False,71981.0,Mid
+EMP-00099,Marketing,Middle East & Africa,2023-09-18,N/A,True,94712.0,Senior
+EMP-00100,Marketing,Latin America,2023-04-07,2023-12-21,False,82304.0,Manager
+EMP-00101,Marketing,North America,2022-11-13,N/A,True,72589.0,Lead
+EMP-00102,Marketing,North America,2023-04-22,N/A,True,122793.0,Junior
+EMP-00103,Marketing,Middle East & Africa,2023-05-19,N/A,True,93264.0,Senior
+EMP-00104,Engineering,Middle East & Africa,2022-01-14,N/A,True,104784.0,Senior
+EMP-00105,Engineering,Europe,2023-11-30,N/A,True,107865.0,Mid
+EMP-00106,Engineering,North America,2022-11-18,N/A,True,108740.0,Mid
+EMP-00107,Engineering,North America,2022-09-09,N/A,True,174262.0,Senior
+EMP-00108,Engineering,North America,2022-11-18,N/A,True,147986.0,Lead
+EMP-00109,Engineering,Latin America,2022-09-15,N/A,True,105501.0,Lead
+EMP-00110,Engineering,Europe,2022-04-24,N/A,True,103117.0,Junior
+EMP-00111,Engineering,Europe,2023-03-05,N/A,True,99094.0,Manager
+EMP-00112,Engineering,Asia Pacific,2023-10-27,N/A,True,83462.0,Mid
+EMP-00113,Engineering,North America,2023-11-19,N/A,True,127872.0,Lead
+EMP-00114,Engineering,Asia Pacific,2022-08-06,N/A,True,136191.0,Mid
+EMP-00115,Engineering,Latin America,2022-08-26,N/A,True,143983.0,Junior
+EMP-00116,Engineering,Middle East & Africa,2022-01-30,2022-08-30,False,112007.0,Junior
+EMP-00117,Engineering,North America,2022-07-08,N/A,True,117556.0,Lead
+EMP-00118,Engineering,North America,2023-09-13,N/A,True,154953.0,Junior
+EMP-00119,Engineering,Latin America,2022-08-01,2023-04-01,False,113141.0,Mid
+EMP-00120,Engineering,Europe,2022-04-28,N/A,True,116119.0,Junior
+EMP-00121,Engineering,Asia Pacific,2023-09-03,N/A,True,129535.0,Mid
+EMP-00122,Engineering,North America,2022-01-26,N/A,True,116625.0,Mid
+EMP-00123,Engineering,Asia Pacific,2022-05-29,2023-02-21,False,140725.0,Manager
+EMP-00124,Engineering,Middle East & Africa,2023-07-28,N/A,True,144355.0,Mid
+EMP-00125,Engineering,Europe,2022-03-05,N/A,True,114244.0,Manager
+EMP-00126,Engineering,Middle East & Africa,2023-07-21,N/A,True,118159.0,Senior
+EMP-00127,Engineering,North America,2022-05-21,N/A,True,177475.0,Senior
+EMP-00128,Engineering,Latin America,2023-03-27,N/A,True,113694.0,Manager
+EMP-00129,Engineering,Latin America,2023-04-22,N/A,True,141508.0,Junior
+EMP-00130,Engineering,North America,2023-09-13,N/A,True,151891.0,Manager
+EMP-00131,Engineering,Middle East & Africa,2023-06-11,N/A,True,100074.0,Mid
+EMP-00132,Engineering,Latin America,2023-06-09,N/A,True,132566.0,Junior
+EMP-00133,Engineering,Asia Pacific,2022-01-02,N/A,True,105673.0,Lead
+EMP-00134,Engineering,Latin America,2023-02-12,N/A,True,81386.0,Manager
+EMP-00135,Engineering,Europe,2023-01-12,N/A,True,113974.0,Senior
+EMP-00136,Engineering,Latin America,2022-05-17,2023-06-20,False,111224.0,Junior
+EMP-00137,Engineering,North America,2022-03-28,2022-07-23,False,136503.0,Manager
+EMP-00138,Engineering,North America,2023-02-14,N/A,True,116361.0,Junior
+EMP-00139,Engineering,Asia Pacific,2023-04-28,N/A,True,87630.0,Lead
+EMP-00140,Engineering,North America,2023-09-04,N/A,True,162445.0,Junior
+EMP-00141,Engineering,Middle East & Africa,2022-04-04,N/A,True,80066.0,Senior
+EMP-00142,Engineering,Latin America,2022-01-29,N/A,True,81549.0,Mid
+EMP-00143,Engineering,Middle East & Africa,2023-10-04,N/A,True,103019.0,Manager
+EMP-00144,Engineering,Middle East & Africa,2023-04-30,N/A,True,140386.0,Lead
+EMP-00145,Engineering,Middle East & Africa,2022-11-26,N/A,True,120531.0,Senior
+EMP-00146,Engineering,Europe,2023-11-17,N/A,True,95062.0,Junior
+EMP-00147,Engineering,Latin America,2023-11-28,N/A,True,92178.0,Lead
+EMP-00148,Engineering,Middle East & Africa,2023-02-09,N/A,True,129718.0,Senior
+EMP-00149,Engineering,Asia Pacific,2022-12-18,N/A,True,91587.0,Manager
+EMP-00150,Engineering,North America,2022-11-02,N/A,True,177650.0,Mid
+EMP-00151,Engineering,Asia Pacific,2022-12-12,N/A,True,102402.0,Senior
+EMP-00152,Engineering,Latin America,2022-01-28,2023-05-20,False,107407.0,Manager
+EMP-00153,Engineering,North America,2022-04-22,N/A,True,123139.0,Senior
+EMP-00154,Engineering,Europe,2023-02-25,N/A,True,149312.0,Senior
+EMP-00155,Engineering,Europe,2023-08-14,N/A,True,107861.0,Manager
+EMP-00156,Engineering,Asia Pacific,2022-01-09,N/A,True,100473.0,Manager
+EMP-00157,Engineering,Middle East & Africa,2023-05-23,N/A,True,81134.0,Manager
+EMP-00158,Engineering,Middle East & Africa,2023-05-11,2023-09-22,False,98468.0,Senior
+EMP-00159,Engineering,North America,2023-04-03,N/A,True,156329.0,Manager
+EMP-00160,Engineering,Latin America,2022-09-16,N/A,True,103624.0,Senior
+EMP-00161,Engineering,Latin America,2023-07-03,N/A,True,115576.0,Manager
+EMP-00162,Engineering,Middle East & Africa,2023-05-31,N/A,True,148778.0,Senior
+EMP-00163,Engineering,Middle East & Africa,2023-04-08,N/A,True,89079.0,Mid
+EMP-00164,Engineering,North America,2023-03-02,N/A,True,159641.0,Manager
+EMP-00165,Engineering,Europe,2022-08-02,N/A,True,151145.0,Manager
+EMP-00166,Engineering,North America,2022-10-21,N/A,True,184999.0,Lead
+EMP-00167,Engineering,Latin America,2023-07-22,N/A,True,97839.0,Junior
+EMP-00168,Engineering,North America,2023-11-05,N/A,True,145730.0,Mid
+EMP-00169,Engineering,Europe,2022-05-14,N/A,True,138539.0,Lead
+EMP-00170,Engineering,North America,2022-03-11,2023-06-07,False,127542.0,Junior
+EMP-00171,Engineering,Latin America,2022-05-14,N/A,True,107486.0,Manager
+EMP-00172,Engineering,Middle East & Africa,2022-02-18,N/A,True,134551.0,Senior
+EMP-00173,Engineering,Middle East & Africa,2023-06-10,N/A,True,129375.0,Junior
+EMP-00174,Engineering,Middle East & Africa,2022-06-19,N/A,True,103071.0,Lead
+EMP-00175,Engineering,Middle East & Africa,2023-03-20,2023-05-31,False,121431.0,Manager
+EMP-00176,Engineering,North America,2022-11-14,N/A,True,169875.0,Junior
+EMP-00177,Engineering,Latin America,2022-09-06,N/A,True,108864.0,Junior
+EMP-00178,Engineering,Latin America,2022-06-21,N/A,True,100885.0,Senior
+EMP-00179,Engineering,Asia Pacific,2022-05-10,N/A,True,142984.0,Mid
+EMP-00180,Engineering,North America,2023-04-28,N/A,True,179407.0,Lead
+EMP-00181,Engineering,Middle East & Africa,2023-04-05,2023-12-22,False,115210.0,Mid
+EMP-00182,Engineering,Asia Pacific,2022-08-16,N/A,True,125476.0,Lead
+EMP-00183,Engineering,Asia Pacific,2022-06-27,N/A,True,96916.0,Mid
+EMP-00184,Engineering,Europe,2022-12-14,N/A,True,146399.0,Senior
+EMP-00185,Engineering,Europe,2023-04-04,N/A,True,128923.0,Senior
+EMP-00186,Engineering,Latin America,2022-10-25,N/A,True,148315.0,Junior
+EMP-00187,Engineering,North America,2022-10-28,N/A,True,109730.0,Manager
+EMP-00188,Engineering,Asia Pacific,2023-03-08,N/A,True,132393.0,Lead
+EMP-00189,Engineering,Europe,2023-09-16,N/A,True,123860.0,Mid
+EMP-00190,Engineering,Latin America,2023-10-01,N/A,True,101369.0,Lead
+EMP-00191,Engineering,Middle East & Africa,2022-01-30,N/A,True,135474.0,Senior
+EMP-00192,Engineering,Asia Pacific,2022-06-13,N/A,True,115990.0,Mid
+EMP-00193,Engineering,North America,2022-03-02,N/A,True,120009.0,Mid
+EMP-00194,Engineering,Asia Pacific,2023-06-01,N/A,True,91942.0,Lead
+EMP-00195,Engineering,North America,2023-07-17,2023-10-09,False,157303.0,Senior
+EMP-00196,Engineering,Europe,2022-08-12,N/A,True,157697.0,Lead
+EMP-00197,Engineering,Middle East & Africa,2023-05-18,N/A,True,147042.0,Lead
+EMP-00198,Engineering,Asia Pacific,2023-11-07,N/A,True,140644.0,Manager
+EMP-00199,Engineering,Middle East & Africa,2022-12-18,N/A,True,128214.0,Junior
+EMP-00200,Engineering,Europe,2023-03-30,N/A,True,134273.0,Mid
+EMP-00201,Engineering,Middle East & Africa,2022-11-17,N/A,True,128099.0,Mid
+EMP-00202,HR,Asia Pacific,2023-02-08,N/A,True,62122.0,Lead
+EMP-00203,HR,Europe,2022-10-30,N/A,True,69407.0,Lead
+EMP-00204,HR,North America,2023-09-30,N/A,True,97664.0,Senior
+EMP-00205,HR,Asia Pacific,2023-12-01,N/A,True,61044.0,Junior
+EMP-00206,HR,North America,2022-06-27,2023-02-17,False,58401.0,Junior
+EMP-00207,HR,Asia Pacific,2023-07-19,N/A,True,73172.0,Manager
+EMP-00208,HR,Europe,2023-08-05,N/A,True,78611.0,Senior
+EMP-00209,HR,North America,2022-11-06,N/A,True,101473.0,Senior
+EMP-00210,HR,Middle East & Africa,2022-08-27,N/A,True,54499.0,Manager
+EMP-00211,HR,Europe,2023-03-19,N/A,True,58948.0,Mid
+EMP-00212,HR,North America,2022-04-29,N/A,True,72285.0,Junior
+EMP-00213,HR,Middle East & Africa,2022-04-05,N/A,True,84448.0,Manager
+EMP-00214,HR,North America,2023-10-23,N/A,True,93126.0,Junior
+EMP-00215,HR,Latin America,2023-11-24,N/A,True,64218.0,Manager
+EMP-00216,HR,North America,2022-07-31,N/A,True,101593.0,Junior
+EMP-00217,HR,Middle East & Africa,2023-05-11,N/A,True,85904.0,Junior
+EMP-00218,HR,Europe,2023-06-03,N/A,True,60103.0,Junior
+EMP-00219,HR,Asia Pacific,2022-09-12,N/A,True,51822.0,Manager
+EMP-00220,HR,Latin America,2023-05-02,N/A,True,72724.0,Mid
+EMP-00221,HR,Europe,2022-08-20,N/A,True,85889.0,Manager
+EMP-00222,HR,Middle East & Africa,2022-03-20,N/A,True,52030.0,Manager
+EMP-00223,HR,Asia Pacific,2023-01-24,N/A,True,80255.0,Manager
+EMP-00224,Finance,Europe,2022-10-15,N/A,True,109188.0,Lead
+EMP-00225,Finance,North America,2022-03-02,N/A,True,104403.0,Junior
+EMP-00226,Finance,North America,2022-10-08,N/A,True,96964.0,Lead
+EMP-00227,Finance,Middle East & Africa,2022-12-12,N/A,True,110448.0,Mid
+EMP-00228,Finance,Europe,2022-09-07,N/A,True,132699.0,Senior
+EMP-00229,Finance,North America,2023-07-09,N/A,True,129850.0,Junior
+EMP-00230,Finance,Latin America,2023-08-13,N/A,True,99038.0,Manager
+EMP-00231,Finance,Europe,2023-07-29,N/A,True,135578.0,Junior
+EMP-00232,Finance,Latin America,2022-09-22,N/A,True,88861.0,Senior
+EMP-00233,Finance,North America,2023-06-14,N/A,True,80444.0,Lead
+EMP-00234,Finance,Latin America,2022-08-22,N/A,True,123344.0,Lead
+EMP-00235,Finance,North America,2022-02-08,N/A,True,105969.0,Senior
+EMP-00236,Finance,Europe,2022-09-17,N/A,True,114807.0,Junior
+EMP-00237,Finance,Europe,2022-03-16,N/A,True,100051.0,Junior
+EMP-00238,Finance,Asia Pacific,2022-04-02,2022-10-19,False,116294.0,Lead
+EMP-00239,Finance,Asia Pacific,2022-12-26,N/A,True,97818.0,Mid
+EMP-00240,Finance,Asia Pacific,2023-05-27,N/A,True,78002.0,Senior
+EMP-00241,Finance,North America,2022-12-13,N/A,True,74806.0,Lead
+EMP-00242,Finance,Middle East & Africa,2023-10-21,N/A,True,127682.0,Lead
+EMP-00243,Finance,Middle East & Africa,2022-10-01,N/A,True,113742.0,Mid
+EMP-00244,Finance,Middle East & Africa,2023-07-02,N/A,True,119901.0,Mid
+EMP-00245,Finance,North America,2022-09-22,N/A,True,139474.0,Lead
+EMP-00246,Finance,Europe,2022-09-23,N/A,True,124689.0,Lead
+EMP-00247,Finance,Middle East & Africa,2023-04-20,N/A,True,76319.0,Senior
+EMP-00248,Finance,Middle East & Africa,2022-05-08,N/A,True,81717.0,Senior
+EMP-00249,Finance,Latin America,2022-10-28,N/A,True,120218.0,Senior
+EMP-00250,Finance,Asia Pacific,2022-06-22,2022-07-29,False,128363.0,Senior
+EMP-00251,Finance,Latin America,2023-04-18,N/A,True,80350.0,Mid
+EMP-00252,Finance,North America,2023-07-19,N/A,True,154178.0,Junior
+EMP-00253,Finance,Middle East & Africa,2022-02-24,N/A,True,101450.0,Senior
+EMP-00254,Finance,Asia Pacific,2023-10-14,N/A,True,113343.0,Manager
+EMP-00255,Finance,Asia Pacific,2022-11-05,2023-09-19,False,76385.0,Mid
+EMP-00256,Finance,Asia Pacific,2023-07-09,N/A,True,109204.0,Lead
+EMP-00257,Finance,Asia Pacific,2023-11-06,N/A,True,68163.0,Lead
+EMP-00258,Finance,North America,2022-10-08,N/A,True,110737.0,Lead
+EMP-00259,Finance,Latin America,2022-02-08,2022-12-19,False,96958.0,Junior
+EMP-00260,Finance,Middle East & Africa,2022-03-19,N/A,True,90023.0,Mid
+EMP-00261,Finance,Middle East & Africa,2022-03-03,2023-07-14,False,76302.0,Manager
+EMP-00262,Finance,Latin America,2023-10-30,N/A,True,112291.0,Lead
+EMP-00263,Operations,North America,2022-02-27,N/A,True,63707.0,Manager
+EMP-00264,Operations,Latin America,2022-02-01,2022-08-17,False,48958.0,Lead
+EMP-00265,Operations,Middle East & Africa,2023-02-26,N/A,True,80999.0,Senior
+EMP-00266,Operations,North America,2023-04-16,N/A,True,68044.0,Mid
+EMP-00267,Operations,Europe,2023-12-01,N/A,True,81538.0,Junior
+EMP-00268,Operations,North America,2023-06-25,N/A,True,57546.0,Manager
+EMP-00269,Operations,Asia Pacific,2022-08-29,N/A,True,77224.0,Manager
+EMP-00270,Operations,Asia Pacific,2023-03-27,N/A,True,76114.0,Senior
+EMP-00271,Operations,Asia Pacific,2022-12-15,N/A,True,70897.0,Junior
+EMP-00272,Operations,Middle East & Africa,2023-09-05,N/A,True,77663.0,Senior
+EMP-00273,Operations,Europe,2022-01-04,N/A,True,59567.0,Mid
+EMP-00274,Operations,Europe,2023-02-11,2023-10-30,False,73527.0,Senior
+EMP-00275,Operations,Asia Pacific,2023-03-30,N/A,True,75241.0,Junior
+EMP-00276,Operations,Europe,2023-01-26,N/A,True,57578.0,Lead
+EMP-00277,Operations,Middle East & Africa,2023-05-06,N/A,True,58114.0,Manager
+EMP-00278,Operations,Europe,2022-01-26,N/A,True,86647.0,Lead
+EMP-00279,Operations,Middle East & Africa,2022-08-25,N/A,True,71230.0,Mid
+EMP-00280,Operations,Middle East & Africa,2023-04-22,N/A,True,67086.0,Mid
+EMP-00281,Operations,Middle East & Africa,2022-04-15,N/A,True,48486.0,Manager
+EMP-00282,Operations,Europe,2022-11-16,N/A,True,47478.0,Mid
+EMP-00283,Customer Support,Asia Pacific,2023-10-10,N/A,True,44190.0,Lead
+EMP-00284,Customer Support,Asia Pacific,2023-07-15,N/A,True,57162.0,Junior
+EMP-00285,Customer Support,Asia Pacific,2023-05-04,N/A,True,52108.0,Senior
+EMP-00286,Customer Support,Middle East & Africa,2022-11-06,N/A,True,55190.0,Mid
+EMP-00287,Customer Support,Middle East & Africa,2023-03-22,N/A,True,46495.0,Lead
+EMP-00288,Customer Support,Middle East & Africa,2023-06-19,N/A,True,60829.0,Junior
+EMP-00289,Customer Support,Europe,2022-08-15,2023-12-25,False,63206.0,Senior
+EMP-00290,Customer Support,Latin America,2022-01-24,N/A,True,67009.0,Senior
+EMP-00291,Customer Support,Middle East & Africa,2023-01-07,N/A,True,54234.0,Lead
+EMP-00292,Customer Support,Latin America,2023-10-16,N/A,True,53682.0,Junior
+EMP-00293,Customer Support,Middle East & Africa,2022-11-01,N/A,True,63729.0,Junior
+EMP-00294,Customer Support,Europe,2022-01-01,N/A,True,54091.0,Senior
+EMP-00295,Customer Support,Latin America,2022-12-27,N/A,True,58768.0,Mid
+EMP-00296,Customer Support,Asia Pacific,2023-09-03,N/A,True,58444.0,Senior
+EMP-00297,Customer Support,Latin America,2022-10-20,N/A,True,42440.0,Junior
+EMP-00298,Customer Support,Europe,2023-06-10,N/A,True,70784.0,Lead
+EMP-00299,Customer Support,Latin America,2022-07-28,N/A,True,64111.0,Lead
+EMP-00300,Customer Support,Middle East & Africa,2022-07-29,N/A,True,48778.0,Mid
+EMP-00301,Customer Support,North America,2023-09-05,N/A,True,53779.0,Senior
+EMP-00302,Customer Support,Europe,2023-07-16,N/A,True,73776.0,Senior
+EMP-00303,Customer Support,Latin America,2023-04-04,2023-11-22,False,42993.0,Lead
+EMP-00304,Customer Support,Asia Pacific,2022-03-01,2022-04-23,False,69992.0,Manager
+EMP-00305,Customer Support,Latin America,2022-04-21,N/A,True,53712.0,Manager
